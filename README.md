@@ -1,1 +1,1 @@
-# Python_machine_learning
+### 파이썬으로 배우는 머신러닝 책을 통한 독학 실습입니다.
